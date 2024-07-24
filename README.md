@@ -3,9 +3,8 @@
 
 ## Description
 
-This Repo contains (hopefully) the development of all 50 projects available at "https://www.geeksforgeeks.org/top-50-cpp-project-ideas-for-beginners-advanced/".
-
-Each project will be available at its corresponding folder, ranked by difficulty and then name, for example:
+This Repo contains (hopefully) the development all kinds of C++ projects.
+Each project will be available at it's corresponding folder, ranked by difficulty and then name, for example:
 
 Intermediate -> 1-SnakeGame.
 
@@ -36,19 +35,13 @@ Here is a checklist of all projects, the ones completed are marked.
     - [ ]School Management System
     - [ ]Hotel Management System
     - [ ]Library Management System
-    - [ ]Traffic Management System
     - [ ]Hangman Game
-    - [ ]Text-Based Adventure Game
-    - [ ]Trading Application
-    - [ ]Search Engine
 
 ### Intermediate Level
 
     - [ ] Snake Game
     - [ ] Text Editor
-    - [ ] Tic-Tac-Toe
-    - [ ] Minesweeper Game
-    - [ ] Phonebook Application
+    - [ ] Sudoku Game
     - [ ] Using Wake-on-LAN protocol to remote power On a PC
     - [ ] Single-colored Blank Image using OpenCV
     - [ ] OpenCV Project for Image Blur
@@ -63,18 +56,15 @@ Here is a checklist of all projects, the ones completed are marked.
 ### Expert Level
 
     - [ ] Password Manager
-    - [ ] Ball Game using OpenGL
-    - [ ] Helicopter Game
     - [ ] Web Browser
-    - [ ] Finding Nearby Cabs
     - [ ] Online Exam System
     - [ ] Online Voting System
-    - [ ] Online Ticket Reservation System
-    - [ ] Online Job Portal
     - [ ] Online Food Ordering System
-    - [ ] Online Shopping System
-    - [ ] Blackjack with AI
-    - [ ] Chess Game with AI
-    - [ ] Bike Race Game
-    - [ ] 3D Bounce Ball Game
+    - [ ] Search Engine
+    - [ ] Phonebook Application
+    - [ ] Compiler Construction
+    - [ ] Enigma Machine Simulator
+    - [ ] Differential Equations Solver
+    - [ ] Web Server
+
 
